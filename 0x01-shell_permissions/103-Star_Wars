@@ -1,2 +1,2 @@
 #!/bin/bash
-appwiz.cpl
+telnet towel.blinkenlights.nl
